@@ -1,4 +1,4 @@
-# 👋 Hi, I'm a Cybersecurity Student
+# 👋 Hi, I'm a Honour 
 
 🎓 University Cybersecurity student  
 🌐 Aspiring **Network Engineer**  
