@@ -1,16 +1,47 @@
-## Hi there 👋
+# 👋 Hi, I'm a Cybersecurity Student
 
-<!--
-**ItsHonuor/itsHonuor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 University Cybersecurity student  
+🌐 Aspiring **Network Engineer**  
+🔐 Passionate about networking, security, and infrastructure  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 About Me
+- Studying **Cybersecurity** at university  
+- Working towards a career in **Network Engineering**
+- Interested in how networks are built, secured, and maintained
+- I enjoy learning through **hands-on labs, projects, and simulations**
+
+---
+
+## 🛠️ Skills & Technologies
+- 🌐 Networking fundamentals (TCP/IP, OSI Model)
+- 🔁 Routing & Switching (basics)
+- 🔐 Network Security concepts
+- 🐧 Linux fundamentals
+- 🧪 Packet analysis (Wireshark)
+- 💻 Basic scripting & problem-solving
+
+---
+
+## 🚀 Current Goals
+- Build strong foundations in **network engineering**
+- Improve real-world **network security skills**
+- Work on practical labs & projects
+- Prepare for industry certifications (future goal)
+
+---
+
+## 📂 Projects
+> 🚧 Projects coming soon — currently building skills and labs  
+> Watch this space 👀
+
+---
+
+## 📫 Connect With Me
+- GitHub: **You’re already here 😉**
+- Always open to learning and collaboration
+
+---
+
+⭐ *Learning one packet at a time*
