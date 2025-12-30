@@ -40,8 +40,7 @@
 
 ## 📫 Connect With Me
 - GitHub: **You’re already here 😉**
-- Always open to learning and collaboration
-
+- linked - https://www.linkedin.com/in/honour-adagbasa-451b622a3/
 ---
 
 ⭐ *Learning one packet at a time*
