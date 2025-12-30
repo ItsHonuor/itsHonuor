@@ -1,6 +1,4 @@
 
-
-![Header](./github-header-banner.png)
 # 👋 Hi, I'm a Honour 
 
 🎓 University Cybersecurity student  
