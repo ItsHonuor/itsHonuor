@@ -1,8 +1,6 @@
 
-<p align="center">
-  <img src="./github-header-banner.png" alt="GitHub Banner" />
-</p>
 
+![Header](./github-header-banner.png)
 # 👋 Hi, I'm a Honour 
 
 🎓 University Cybersecurity student  
