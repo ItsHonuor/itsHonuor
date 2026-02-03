@@ -1,47 +1,51 @@
 
-# 👋 Hi, I'm a Honour 
+👋 Hi, I’m Honour
 
-🎓 University Cybersecurity student  
-🌐 Aspiring **Network Engineer**  
-🔐 Passionate about networking, security, and infrastructure  
+🎓 University Cybersecurity student
+🧱 Aspiring Backend Engineer
+🔐 Interested in secure systems, APIs, and infrastructure
 
----
+🧠 About Me
 
-## 🧠 About Me
-- Studying **Cybersecurity** at university  
-- Working towards a career in **Network Engineering**
-- Interested in how networks are built, secured, and maintained
-- I enjoy learning through **hands-on labs, projects, and simulations**
+Studying Cybersecurity at university
 
----
+Transitioning into Backend Engineering (APIs, databases, server-side systems)
 
-## 🛠️ Skills & Technologies
-- 🌐 Networking fundamentals (TCP/IP, OSI Model)
-- 🔁 Routing & Switching (basics)
-- 🔐 Network Security concepts
-- 🐧 Linux fundamentals
-- 🧪 Packet analysis (Wireshark)
-- 💻 Basic scripting & problem-solving
+Curious about how reliable backend services are designed, built, and secured
 
----
+I learn best through hands-on projects, labs, and building real features
 
-## 🚀 Current Goals
-- Build strong foundations in **network engineering**
-- Improve real-world **network security skills**
-- Work on practical labs & projects
-- Prepare for industry certifications (future goal)
+🛠️ Skills & Technologies
 
----
+🧱 Backend fundamentals (client/server, REST APIs, auth basics)
 
-## 📂 Projects
-> 🚧 Projects coming soon — currently building skills and labs  
-> Watch this space 👀
+🗄️ Databases (SQL fundamentals, data modeling basics)
 
----
+🐧 Linux fundamentals
 
-## 📫 Connect With Me
-- GitHub: **You’re already here 😉**
-- linked - https://www.linkedin.com/in/honour-adagbasa-451b622a3/
----
+🔐 Security mindset (secure configs, least privilege, basic threat awareness)
 
-⭐ *Learning one packet at a time*
+🧪 Debugging & traffic analysis (Wireshark basics)
+
+💻 Scripting & problem-solving
+
+🚀 Current Goals
+
+Build and deploy backend APIs with clean architecture
+
+Strengthen skills in databases, caching, and authentication
+
+Learn how to write secure, scalable backend services
+
+Ship more practical projects and grow a backend portfolio
+
+📂 Projects
+
+🚧 Projects coming soon — currently building and shipping backend projects
+Stay tuned 👀
+
+📫 Connect With Me
+
+GitHub: You’re already here 😉
+
+LinkedIn: (https://www.linkedin.com/in/honour-adagbasa-451b622a3/)
