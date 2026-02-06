@@ -5,7 +5,7 @@
 ---
 
 ## 🧠 About Me
-- Studying **Cybersecurity** at university
+- Studying **Cybersecurity** at university of worcester
 - Working towards a career in **Backend Engineering**
 - Interested in how backend services are built, secured, and scaled
 - I enjoy learning through **hands-on projects, labs, and simulations**
