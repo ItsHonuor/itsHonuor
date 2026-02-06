@@ -32,7 +32,7 @@
 
 ## 📂 Projects
 > 🚧 Projects coming soon — currently building backend projects  
-> Watch this space 👀
+> Watch this space 
 
 ---
 
