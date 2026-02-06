@@ -26,7 +26,7 @@
 - Build strong foundations in **backend engineering**
 - Improve real-world **API + database** skills
 - Work on practical backend projects & labs
-- Prepare for industry certifications (future goal)
+- Prepare for industry certifications
 
 ---
 
