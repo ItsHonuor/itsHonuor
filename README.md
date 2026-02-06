@@ -1,92 +1,115 @@
-<h1 align="center">Hi, I'm Honour Adagbasa 👋</h1>
+<!-- =========================
+     BLUE THEME PROFILE README
+========================== -->
+
+<!-- Top Banner (Blue) -->
 <p align="center">
-  Backend-focused developer building clean, secure APIs and reliable systems.
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&text=Honour%20Adagbasa&fontAlignY=40&color=0:0B5FFF,100:00C2FF&desc=Backend%20Developer%20%7C%20API%20Builder%20%7C%20&descAlignY=60" />
 </p>
 
+<!-- Typing Header -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=820&color=00B2FF&lines=Hi%2C+I'm+Honour+Adagbasa+%F0%9F%91%8B;Backend+Developer;I+build+secure%2C+scalable%2C+well-documented+APIs;Always+learning%2C+always+shipping+%F0%9F%9A%80" />
+</p>
+
+<!-- Quick Links (Blue style) -->
 <p align="center">
   <a href="https://www.linkedin.com/in/honour-adagbasa-451b622a3/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:h.adagbasa@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-0B5FFF?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+  <a href="https://github.com/itsHonuor" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-0B1320?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+<!-- Profile Badges (Blue) -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=itsHonuor&style=for-the-badge&color=0B5FFF" />
+  <img src="https://img.shields.io/github/followers/itsHonuor?style=for-the-badge&color=0B5FFF&label=Followers" />
+  <img src="https://img.shields.io/github/stars/itsHonuor?style=for-the-badge&color=00C2FF&label=Stars" />
 </p>
 
 ---
 
 ## 💫 About Me
 - **My name is Honour Adagbasa**
-- I build backend services with a focus on **clean architecture**, **API design**, and **production-ready development**.
-- Interested in **scalable systems**, **database design**, and **developer tooling**.
+- Backend-focused developer building **clean, secure APIs** and **reliable systems**
+- I care about **architecture, performance, security, and developer experience**
 
 ---
 
 ## 🧠 Core Skills (Recruiter-Focused)
 
 ### ⚙️ Backend (APIs)
-- REST API development: **validation, pagination, error handling, versioning**
-- API documentation: **OpenAPI / Swagger**
-- Authentication & authorization: **JWT, sessions, RBAC**
+- REST API development: validation, pagination, error handling, versioning  
+- API documentation: OpenAPI / Swagger  
+- Authentication & authorization: JWT, sessions, RBAC  
 
 ### 🗄️ Databases
-- SQL: **joins, transactions, indexing basics**
-- **PostgreSQL**
-- Data modeling + migrations
+- SQL (joins, transactions, indexing basics)  
+- PostgreSQL  
+- Data modeling + migrations  
 
 ### 🐍 Python
-- **FastAPI** (or Django / DRF)
-- **Pydantic**
-- **SQLAlchemy + Alembic**
+- FastAPI (or Django / DRF)  
+- Pydantic  
+- SQLAlchemy + Alembic  
 
 ### 🟦 TypeScript / Node.js
-- Node.js + TypeScript
-- **Express / Fastify / NestJS**
-- **Prisma / TypeORM**
+- Node.js + TypeScript  
+- Express / Fastify / NestJS  
+- Prisma / TypeORM  
 
 ### 🧪 Testing
-- **Pytest, Jest**
-- Unit + integration testing basics
+- Pytest, Jest  
+- Unit + integration testing basics  
 
 ### 🧰 DevOps / Production Basics
-- **Docker + Docker Compose**
-- **GitHub Actions** (CI/CD basics)
-- Linux fundamentals
-- Logging + debugging fundamentals
-- API security basics: **input validation, CORS, rate limiting**
+- Docker + Docker Compose  
+- GitHub Actions (CI/CD basics)  
+- Linux fundamentals  
+- Logging + debugging fundamentals  
+- API security basics (validation, CORS, rate limiting)  
 
 ---
 
 ## 💻 Tech Stack
-<p>
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
-  <img src="https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Trello-026AA7?style=for-the-badge&logo=Trello&logoColor=white" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,fastapi,ts,nodejs,express,postgres,mysql,mongodb,docker,aws,githubactions,linux,git&perline=7" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=itsHonuor&theme=dark&hide_border=false&include_all_commits=true&count_private=true" />
-</p>
-<p>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=itsHonuor&theme=dark&hide_border=false" />
-</p>
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsHonuor&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+## 🏆 Highlights
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=itsHonuor&theme=algolia&no-frame=true&row=1&column=6" />
 </p>
 
 ---
+
+## 📊 GitHub Stats (Blue Theme)
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=itsHonuor&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsHonuor&theme=tokyonight&hide_border=true&layout=compact" />
+</p>
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=itsHonuor&icon=0&color=0" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=itsHonuor&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 📌 What I’m Open To
+- Backend / API development roles  
+- Internship / Junior opportunities  
+- Collaborations on real-world projects  
+
+---
+
+<!-- Bottom Banner (Blue) -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=160&section=footer&color=0:0B5FFF,100:00C2FF" />
 </p>
