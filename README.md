@@ -1,6 +1,4 @@
-<!-- =========================
-     BLUE THEME PROFILE README
-========================== -->
+
 
 <!-- Top Banner (Blue) -->
 <p align="center">
@@ -41,7 +39,7 @@
 
 ---
 
-## 🧠 Core Skills (Recruiter-Focused)
+## 🧠 Core Skills 
 
 ### ⚙️ Backend (APIs)
 - REST API development: validation, pagination, error handling, versioning  
@@ -102,10 +100,6 @@
 
 ---
 
-## 📌 What I’m Open To
-- Backend / API development roles  
-- Internship / Junior opportunities  
-- Collaborations on real-world projects  
 
 ---
 
