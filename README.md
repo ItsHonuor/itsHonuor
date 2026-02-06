@@ -81,12 +81,6 @@
 
 ---
 
-## 🏆 Highlights
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=itsHonuor&theme=algolia&no-frame=true&row=1&column=6" />
-</p>
-
----
 
 ## 📊 GitHub Stats (Blue Theme)
 <p align="center">
@@ -98,10 +92,6 @@
   <img src="https://nirzak-streak-stats.vercel.app/?user=itsHonuor&theme=tokyonight&hide_border=true" />
 </p>
 
----
-
-
----
 
 <!-- Bottom Banner (Blue) -->
 <p align="center">
