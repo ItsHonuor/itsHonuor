@@ -83,10 +83,6 @@
 
 
 ## 📊 GitHub Stats (Blue Theme)
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=itsHonuor&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsHonuor&theme=tokyonight&hide_border=true&layout=compact" />
-</p>
 
 <p align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=itsHonuor&theme=tokyonight&hide_border=true" />
